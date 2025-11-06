@@ -12,4 +12,4 @@ My research focuses on building compute-efficient models (like **zero-shot** and
 2. **Noise2Detail** (MICCAI'25): Ultra-lightweight 22k-parameter data-free denoising framework, 100-1000x smaller than typical denoising U-Nets, solving a key bottleneck for biomedical imaging where training data and compute are scarce. [`Google Colab demo`](https://github.com/ctom2/noise2detail)
 3. **Privacy risks in Medical AI** (AISec'23): One of the first exhaustive studies of membership inference attacks on semantic segmentation models. The code quantitatively benchmarks the vulnerability of popular architectures and analyzes the trade-offs of various defenses.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctom2&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=A1A1A1&bg_color=0,000000,002339" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctom2&show_icons=true&theme=transparent&rank_icon=github" alt="my Github Stats"/>
