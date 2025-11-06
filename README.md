@@ -1,6 +1,6 @@
 # Hi, I'm [Tomáš Chobola](https://chobola.ai) 👋
 
-I'm a final-year PhD candidate at Helmholtz Munich & TU Munich, specializing in efficient machine learning and computer vision for biomedical imaging.
+I'm a final-year **PhD candidate** at *Helmholtz Munich & TU Munich*, specializing in efficient machine learning and computer vision for biomedical imaging.
 
 My research focuses on building compute-efficient models (like **zero-shot** and **one-shot learning**) that perform in **data-scarce environments**. I have a proven record in the full research lifecycle, from initial concept to **first-author publication at A\* conferences** (ECCV, ICCV, AAAI, MICCAI) and to deployed, production-ready solutions.
 
