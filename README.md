@@ -2,7 +2,7 @@
 
 I'm a final-year **PhD candidate** at *Helmholtz Munich & TU Munich*, specializing in efficient machine learning and computer vision for biomedical imaging.
 
-My research focuses on building compute-efficient models (like **zero-shot** and **one-shot learning**) that perform in **data-scarce environments**. I have a proven record in the full research lifecycle, from initial concept to **first-author publication at A\* conferences** (ECCV, ICCV, AAAI, MICCAI) and to deployed, production-ready solutions.
+My research focuses on building compute-efficient models (like **zero-shot** and **one-shot learning**) that perform in **data-scarce environments**. Additionally, I am currently developing **foundation models** for applications in the biomedical field. I have a proven record in the full research lifecycle, from initial concept to **first-author publication at A\* conferences** (ECCV, ICCV, AAAI, MICCAI) and to deployed, production-ready solutions.
 
 [Portfolio](https://chobola.ai) / [LinkedIn](https://linkedin.com/in/tchobola) / [Google Scholar](https://scholar.google.com/citations?user=KoL2wdQAAAAJ)
 
